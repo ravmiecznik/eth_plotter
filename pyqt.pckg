@@ -1,0 +1,85 @@
+pyqt-units (2.0)                                               - System of units for PyQt
+image-pyqt (0.0.2)                                             - An Image Widget for display OpenCV Mat image
+pyqt-distutils (0.7.3)                                         - A set of distutils extension for building Qt ui files
+pyqt-finance (0.0.1)                                           - Custom QWidget for display historical stock data
+PyQt-Fit (1.3.4)                                               - Parametric and non-parametric regression, with plotting and testing methods.
+pyqt-led (0.0.6)                                               - Simple LED widget for PyQt5
+sciplot-pyqt (0.2.1)                                           - A small matplotlib wrapper/UI for creating                      publication-ready plots, graphs, and images
+LibQuickUI (1.3)                                               - UI Extension to PyQt
+mpl4qt (1.1.2)                                                 - Matplotlib widget for PyQt
+QRegexEditor (0.5.3)                                           - PyQt regex editor
+qtgui (0.0.1)                                                  - python3 pyqt wraper
+QUI-for-MPlayer (snapshot_9-14-2011)                           - PyQt frontend for MPlayer
+winterstone (0.8.6.7)                                          - Framework for PyQt application
+cs20-easygui (0.9.5)                                           - "Inspired by EasyGUI, designed for PyQt"
+cs20-gui (0.9.3)                                               - "Inspired by EasyGUI, designed for PyQt"
+easygui_qt (0.9.3)                                             - "Inspired by EasyGUI, designed for PyQt"
+imzml2isa-qt (0.1.6)                                           - A PyQt interface for mzml2isa parser.
+mzml2isa-qt (0.3.4)                                            - A PyQt interface for mzml2isa parser.
+nmrml2isa-qt (0.2.0)                                           - A PyQt interface for nmrml2isa parser.
+pycalculator (0.1)                                             - RPN calculator developed in PyQt
+pycante (1.0)                                                  - The hotest way to deal with PyQt
+PyQLogger (1.3.3)                                              - PyQLogger: PyQt Blogger Client
+pyqtdeploy (2.2)                                               - PyQt Application Deployment Tool
+pyqtlet (0.3.0)                                                - Bringing leaflet maps to PyQt
+python-qnotifications (2.0.1)                                  - Pretty in-app notifications for PyQt
+qradial-menu (0.1.2)                                           - A simple radial menu for PyQt
+qrc-build (0.0.1)                                              - Convert folder to qrc for pyqt
+qtsnbl (2018.6.8)                                              - PyQt widgets for SNBL programs
+RSA-Simulator (1.0)                                            - RSA Simulator written in PyQt.
+satin (0.1.0)                                                  - UI testing library for PyQt
+BcdaQWidgets (2017.3.0)                                        - PyEpics-aware PyQt widgets for the APS.
+facerecog (0.0.1)                                              - PyQt OpenCV Face Recognition Widget
+picup (0.5.1)                                                  - PyQt based Picflash upload tool
+pqaut (0.4.1)                                                  - Automation for BDD testing PyQt apps
+PyQtdoc (5.5.1)                                                - PyQtdoc installs Qt documentation for PyQt
+pytest-qt (3.0.2)                                              - pytest support for PyQt and PySide applications
+qPyProfiler (0.3)                                              - Graphical interface to python profiler in PyQt
+QtAwesome (0.4.4)                                              - FontAwesome icons in PyQt and PySide applications
+qtbot (0.0.1)                                                  - Test automation helper for PyQt applications
+rapyde (0.1.0)                                                 - GUI for creation of PySide/PyQt projects.
+ted17 (0.2)                                                    - Useful widgets and functions for pyqt development
+distutils_ui (0.1.2)                                           - A distutils build extension for PyQt{4,5} applications
+pyqode.core (2.11.0)                                           - PyQt/PySide Source Code Editor Widget
+qcrash (0.2.0)                                                 - A crash report framework for PyQt/PySide applications
+qdarkgraystyle (1.0.2)                                         - A dark gray stylesheet for PyQt/PySide applications
+QHangups (1.8.1)                                               - Alternative client for Google Hangouts written in PyQt
+quicktikz (0.1.4)                                              - a pyqt program which is write for the tikz drawing
+fbs (0.1.4)                                                    - Easily create cross-platform desktop applications with PyQt
+pyDLib (0.0.1)                                                 - Base tools to create data-driven PyQt application
+PyPaPi (0.8)                                                   - PyPaPi - Python and Qt Application Framework (PyQt and SQLAlchemy)
+pyqt2waybinding (0.3)                                          - Simple framework for easy 2-way binding with PyQt
+pyqtkeybind (0.0.3)                                            - Global hotkey bindings for Windows and Linux for PyQt apps
+python_qt_binding (0.3.4)                                      - This stack provides Python bindings for Qt. There are two providers: pyside and pyqt.  PySide is released under the LGPL.  PyQt is released under the GPL.
+ipbec (0.1.9)                                                  - A PyQT application analyze absorption images of Bose-Einstein condensates
+PyCon_UK_2007_PyQt_and_Qt_Designer (2)                         - PyQt and Qt Designer examples from PyCon UK 2007.
+QOpenVPN (2.0.0)                                               - Simple OpenVPN GUI written in PyQt for systemd based distributions
+qrangeslider (0.1.1)                                           - The QRangeSlider class implements a horizontal PyQt range slider widget.
+qstylizer (0.1.4)                                              - Stylesheet Generator for PyQt{4-5}/PySide{1-2}
+SiQt (0.3.0)                                                   - Convenience tools for building PyQt/PySide based GUI applications.
+ConfigObj-GUI (0.1)                                            - A PyQt based library providing a GUI for configuring ConfigObj enabled applications
+pyqtconfig (0.8.6)                                             - An API for keeping PyQt widgets in sync with a config dictionary or QSettings object.
+qtdjango (1.5.7.2)                                             - Library for connection of PyQt application to Django server,
+also reusable app.
+slickpicker (0.2)                                              - A small PyQt color picker widget (can be run on its own)
+conda-manager (0.4.0)                                          - A stand alone PyQt/PySide GUI application for managing conda packages and environments.
+dottorrent-gui (1.3.10)                                        - An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent
+PyCon_Italia_2009_PyQt_for_Desktop_and_Embedded_Devices (1.0)  - Slides from the PyQt for Desktop and Embedded Devices talk at PyCon Italia 2009.
+PyForms (3.0.0)                                                - Pyforms is a Python 2.7 and 3.4 framework to develop GUI applications based on pyqt
+PyForms-GUI (4.0.2)                                            - Pyforms is a Python 2.7 and 3.4 framework to develop GUI applications based on pyqt
+qtalchemy (0.8.3)                                              - QtAlchemy is a framework for developing GUI database applications using SQLAlchemy and PyQt/PySide.
+scida-pro (1.7.1)                                              - Solar cell data analysis using python modules pandas, matplotlib and pyqt
+Pyforms-Lite (3.0.7)                                           - Pyforms-Lite is a Python 2.7 and 3.5+ framework to develop GUI applications based on PyQt
+install-qt-binding (0.0.8)                                     - Automatic install a qt binding (pyside/pyside2/pyqt/pyqt5) that could install in the runtime environment
+latticegraph-designer (1.0a1)                                  - PyQt based GUI tool which allows to visualize, design and export the lattice graph models.
+qt-multiprocessing (0.0.6)                                     - Library to have other PySide/PyQt widgets run in a separate process while allowing communication with the main process.
+ConfigObj-Qt (0.1)                                             - Save and load ConfigObj configuration data using PyQt. This enables configuration to be stored in a way that is appropriate for the platform where the application is running.
+qt_widgetstyler (0.1)                                          - qt_widgetstyler is a small Python class intended to make the dynamic styling of Qt widgets via either PySide or PyQt a simpler task.
+wallaby (0.1.2)                                                - Wallaby is a powerful yet simple framework for building Qt-based, cross-platform applications in PyQt/PySide with a CouchDB/CouchBase and Elasticsearch backend.
+appbase (0.3.4)                                                - appbase is the foundation for a pyQt based application including:
+
+* save, load, autosave
+* session management
+* fullscreen with F11
+* close-dialog
+* system tray control
